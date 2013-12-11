@@ -7,7 +7,6 @@ int hilo;
 	/**
 	 * @param args
 	 */
-//bla
 	//Solucion III
 	public static void creaHilo(int hilo){
 		class ContadorLC implements Runnable{
